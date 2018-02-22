@@ -1,0 +1,23 @@
+{
+  "name": "cssproperties",
+  "version": "1.0.0",
+  "description": "CSS property typings for TypeScript",
+  "main": "css-properties.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programbo/cssproperties.git"
+  },
+  "keywords": [
+    "css",
+    "typescript"
+  ],
+  "author": "John Lombardo <john@programbo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/programbo/cssproperties/issues"
+  },
+  "homepage": "https://github.com/programbo/cssproperties#readme"
+}
