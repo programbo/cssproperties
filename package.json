@@ -1,5 +1,5 @@
 {
-  "name": "cssproperties",
+  "name": "typescript-cssproperties",
   "version": "1.0.1",
   "description": "CSS property typings for TypeScript",
   "main": "css-properties.d.ts",
